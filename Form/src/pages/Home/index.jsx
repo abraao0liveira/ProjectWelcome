@@ -21,7 +21,7 @@ export function Home() {
             </div>
             <div class="right-login">
                  <div class="card-login">
-                    <img src="https://scontent.ffor27-1.fna.fbcdn.net/v/t39.30808-6/326708695_497998132500074_2545789917932687896_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=i3MG0RTorMEAX9y2NBz&_nc_ht=scontent.ffor27-1.fna&oh=00_AfD6-Q96aGFzfG7M3hHRoVd_uI1mxFdC7zzP1Y5dkHFmgw&oe=63F0AD07" alt="Logo"/>
+                    <img src="./img/igmLogo.png" alt="Logo"/>
                     <h1>Igreja em Maracanaú</h1>
                     <div class="textfield">
                         <label for="Nome">Nome</label>
